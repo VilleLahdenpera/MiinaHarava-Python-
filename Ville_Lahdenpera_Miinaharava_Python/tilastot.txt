@@ -1,0 +1,8 @@
+______TILASTOT_______
+2018-12-07 16:05:03 Aika:0.28min Voitto Vuorot:5 Kenttä:10x10 Miinat:8
+2018-12-07 16:05:03 Aika:0.12min Häviö Vuorot:3 Kenttä:20x10 Miinat:7
+2018-12-07 16:05:03 Aika:0.21min Häviö Vuorot:9 Kenttä:8x7 Miinat:5
+2018-12-07 16:08:55 Aika:0.13min Häviö Vuorot:8 Kenttä:10x10 Miinat:6
+2018-12-07 16:11:32 Aika:0.02min Häviö Vuorot:1 Kenttä:20x19 Miinat:377
+2019-01-09 21:45:33 Aika:0.03min Häviö Vuorot:1 Kenttä:5x5 Miinat:7
+2019-01-09 21:45:33 Aika:0.12min Voitto Vuorot:3 Kenttä:10x10 Miinat:4
